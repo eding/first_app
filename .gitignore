@@ -1,0 +1,11 @@
+.DS_Store
+log/*.log
+tmp
+config/database.yml
+db/*.sqlite3
+*.tmproj
+public/uploads
+public/system
+*.swp
+features/daemon/*.log
+.idea/*
